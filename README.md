@@ -27,14 +27,8 @@ and a front-end developer with deep passion for Computer-Science and Technologie
 [![Linkedin]()](www.linkedin.com/in/humza-khann)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hummza.khann@gmail.com)
 
-#
-<p align="center">
-<a href="https://n3dal.github.io/" target="blank"><img src="https://github.com/N3dal/N3dal/blob/main/assets/n3dal_02.gif" /></a>
-</p>
 
-# 
-
-Thank you for taking the time to read my profile 🤣🤣
+Thank you for taking the time to read my profile ❤❤
 
 
 ------
