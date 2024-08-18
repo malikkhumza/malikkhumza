@@ -16,7 +16,7 @@ and a front-end developer with deep passion for Computer-Science and Technologie
 
 - 👀 I’m looking to collaborate on **Reactjs** Projects.
 - 🐍 I’m looking to collaborate on **Python/Django** projects.
-- 👨‍💻 All of my projects are available at [https://github.com/]((https://github.com/malikkhumza))
+- 👨‍💻 All of my projects are available at [https://github.com/malikkhumza]((https://github.com/malikkhumza))
 - 💬 Ask me about **Javascript** or **React**.
 - 🐧 I like **WINDOWS**.
 - 📫 How to reach me **hummza.khann@gmail.com**
