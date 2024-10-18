@@ -24,7 +24,6 @@ and a front-end developer with deep passion for Computer-Science and Technologie
 
 #
 ## Where to find me
-[![Linkedin]()](www.linkedin.com/in/humza-khann)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hummza.khann@gmail.com)
 
 
