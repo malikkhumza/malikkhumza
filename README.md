@@ -15,7 +15,7 @@ I'm **`Malik Humza`** an 23 y.o. Computer Science Gradualte from Lahore(PK),
 and a front-end developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Reactjs** Projects.
-- 🐍 I’m looking to collaborate on **Python/Django** projects.
+- 🐍 I’m looking to collaborate on **Nodejs** projects.
 - 👨‍💻 All of my projects are available at [https://github.com/malikkhumza]((https://github.com/malikkhumza))
 - 💬 Ask me about **Javascript** or **React**.
 - 🐧 I like **WINDOWS**.
