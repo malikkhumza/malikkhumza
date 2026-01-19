@@ -11,7 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Malik Humza`** an 23 y.o. Computer Science Gradualte from Lahore(PK),
+I'm **`Malik Humza`** an 24 y.o. Computer Science Gradualte from Lahore(PK),
 and a front-end developer with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Reactjs** Projects.
